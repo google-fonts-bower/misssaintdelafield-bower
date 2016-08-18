@@ -1,0 +1,17 @@
+{
+    "name": "misssaintdelafield-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Sudtipos"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/misssaintdelafield-bower.git"
+    },
+    "description": "Miss Saint Delafield font",
+    "keywords": [
+        "font",
+        "HANDWRITING"
+    ]
+}
